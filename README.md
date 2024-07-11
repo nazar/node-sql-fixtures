@@ -22,7 +22,7 @@ Easily generate data that gets saved in the database, with foreign key dependenc
 
 # Install
 
-`npm install sql-fixtures`
+`npm install @nazar/sql-fixtures`
 
 # Simple Example
 

@@ -31,3 +31,4 @@ README.html
 .vagrant
 sqlite-integration-spec.db
 .npmrc
+.vscode

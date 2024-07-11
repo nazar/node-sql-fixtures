@@ -1,6 +1,6 @@
 {
-  "name": "sql-fixtures",
-  "version": "1.0.4",
+  "name": "@nazar/sql-fixtures",
+  "version": "1.0.5",
   "description": "Populate a SQL database with fixture data",
   "main": "index.js",
   "scripts": {
@@ -25,7 +25,8 @@
   ],
   "author": "Matt Greer <matt.e.greer@gmail.com> (http://www.mattgreer.org/)",
   "contributors": [
-    "Blaine Bublitz <blaine@iceddev.com> (http://iceddev.com/)"
+    "Blaine Bublitz <blaine@iceddev.com> (http://iceddev.com/)",
+    "Nazar Aziz <mcnazar@gmail.com> (http://iceddev.com/)"
   ],
   "license": "MIT",
   "dependencies": {
@@ -35,9 +36,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/city41/node-sql-fixtures.git"
+    "url": "git://github.com/nazar/node-sql-fixtures.git"
   },
-  "homepage": "https://github.com/city41/node-sql-fixtures",
+  "homepage": "https://github.com/nazar/node-sql-fixtures",
   "devDependencies": {
     "chai": "^1.9.1",
     "chai-as-promised": "^4.1.1",
@@ -50,5 +51,8 @@
     "mysql": "^2.5.2",
     "pg": "^4.4.4",
     "sqlite3": "^4.1.0"
+  },
+  "publishConfig": {
+    "@nazar:registry": "https://npm.pkg.github.com"
   }
 }
