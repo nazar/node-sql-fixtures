@@ -21,7 +21,7 @@ sql-fixtures is not actively being worked on anymore, because it's pretty much d
 
 # Install
 
-`npm install sql-fixtures`
+`npm install @nazar/sql-fixtures`
 
 # Simple Example
 

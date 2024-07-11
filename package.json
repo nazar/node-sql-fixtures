@@ -1,5 +1,5 @@
 {
-  "name": "sql-fixtures",
+  "name": "@nazar/sql-fixtures",
   "version": "1.0.5",
   "description": "Populate a SQL database with fixture data",
   "main": "index.js",
